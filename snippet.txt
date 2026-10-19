@@ -1,4 +1,4 @@
-<model-viewer src="Y1.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1"><button slot="ar-button" id="ar-button">
+<model-viewer src="Y1.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="fixed" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1"><button slot="ar-button" id="ar-button">
         View in your space
     </button>
     <div id="ar-prompt">
